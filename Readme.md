@@ -6,7 +6,7 @@ Passport Boilerplate Swift is prepared to work with Passport Boilerplate Nodejs,
 
 ### Tech
 
-Passport Boilerplate Swift uses Cocapods packages to work properly:
+Passport Boilerplate Swift uses Cocoapods packages to work properly:
 
 * [Alamofire] - Elegant HTTP Networking in Swift
 * [ObjectMapper] - Simple JSON Object mapping written in Swift
